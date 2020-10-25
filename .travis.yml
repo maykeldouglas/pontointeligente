@@ -3,3 +3,4 @@ jdk:
   - openjdk8
 before_install:
   - chmod +x mvnw
+install: travis_wait mvn install

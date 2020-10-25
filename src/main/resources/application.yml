@@ -5,7 +5,7 @@ spring:
   application:
     name: pontointeligente
   profiles:
-    active: dev
+    active: test
 ---
 
 spring:
